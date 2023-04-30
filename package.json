@@ -1,0 +1,24 @@
+{
+  "name": "random-message-packages",
+  "version": "1.0.0",
+  "description": "npm packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgustinMineo/random-message-packages.git"
+  },
+  "keywords": [],
+  "author": "Agustin Mineo <mineoagustin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AgustinMineo/random-message-packages/issues"
+  },
+  "homepage": "https://github.com/AgustinMineo/random-message-packages#readme",
+  "bin":{
+    "random-message-packages":"./bin/global.js"
+  },
+  "preferGlobal": true
+}
