@@ -1,6 +1,6 @@
 {
   "name": "random-message-packages",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "npm packages",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,8 @@
     "url": "https://github.com/AgustinMineo/random-message-packages/issues"
   },
   "homepage": "https://github.com/AgustinMineo/random-message-packages#readme",
-  "bin":{
-    "random-message-packages":"./bin/global.js"
+  "bin": {
+    "random-message-packages": "./bin/global.js"
   },
   "preferGlobal": true
 }
